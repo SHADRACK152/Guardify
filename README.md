@@ -1,2 +1,2 @@
 # Guardify
-A cybersecury web app,
+A cybersecurity web app,
